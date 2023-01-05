@@ -1,1 +1,2 @@
-pyinstaller main.py --onefile
+#!/bin/bash
+pip install -r requirements.txt
